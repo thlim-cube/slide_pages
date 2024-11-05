@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <!-- Step 1 -->
+  <g transform="translate(0, 0)">
+    <rect x="10" y="10" width="160" height="160" fill="white" stroke="#FFA500" stroke-width="2"/>
+    <text x="90" y="70" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="16">로그인</text>
+    <text x="90" y="100" text-anchor="middle" font-family="Arial" font-size="12" fill="#666">Step 01</text>
+    <path d="M170 90 L200 90" stroke="#FFA500" stroke-width="2" marker-end="url(#arrow-orange)"/>
+  </g>
+
+  <!-- Step 2 -->
+  <g transform="translate(200, 0)">
+    <rect x="10" y="10" width="160" height="160" fill="white" stroke="#FF6B6B" stroke-width="2"/>
+    <text x="90" y="70" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="16">다운로드</text>
+    <text x="90" y="100" text-anchor="middle" font-family="Arial" font-size="12" fill="#666">Step 02</text>
+    <path d="M170 90 L200 90" stroke="#FF6B6B" stroke-width="2" marker-end="url(#arrow-red)"/>
+  </g>
+
+  <!-- Step 3 -->
+  <g transform="translate(400, 0)">
+    <rect x="10" y="10" width="160" height="160" fill="white" stroke="#00CED1" stroke-width="2"/>
+    <text x="90" y="70" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="16">설문 입력</text>
+    <text x="90" y="100" text-anchor="middle" font-family="Arial" font-size="12" fill="#666">Step 03</text>
+    <path d="M170 90 L200 90" stroke="#00CED1" stroke-width="2" marker-end="url(#arrow-blue)"/>
+  </g>
+
+  <!-- Step 4 -->
+  <g transform="translate(600, 0)">
+    <rect x="10" y="10" width="160" height="160" fill="white" stroke="#90EE90" stroke-width="2"/>
+    <text x="90" y="70" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="16">전송</text>
+    <text x="90" y="100" text-anchor="middle" font-family="Arial" font-size="12" fill="#666">Step 04</text>
+  </g>
+
+  <!-- Arrow Definitions -->
+  <defs>
+    <marker id="arrow-orange" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10" fill="none" stroke="#FFA500"/>
+    </marker>
+    <marker id="arrow-red" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10" fill="none" stroke="#FF6B6B"/>
+    </marker>
+    <marker id="arrow-blue" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10" fill="none" stroke="#00CED1"/>
+    </marker>
+  </defs>
+</svg>
