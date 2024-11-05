@@ -1,6 +1,6 @@
 {
-  "aspectWidth": 4,
-  "aspectHeight": 3,
+  "aspectWidth": 1,
+  "aspectHeight": 1,
   "enableKeyboardZoom": true,
   "enableKeyboardRotation": true,
   "enableKeyboardNavigation": true,
@@ -24,7 +24,44 @@
   "exportToVideoBitRate": 2000000,
   "frames": [
     {
-      "frameId": "frame1976",
+      "frameId": "frame2184",
+      "title": "All",
+      "titleLevel": 0,
+      "notes": "",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "__sozi_auto__": {
+          "cx": 397.5,
+          "cy": 124.5,
+          "width": 793,
+          "height": 247,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {}
+    },
+    {
+      "frameId": "frame8372",
       "title": "Login",
       "titleLevel": 0,
       "notes": "",
@@ -45,10 +82,10 @@
       },
       "cameraStates": {
         "__sozi_auto__": {
-          "cx": 84.90316733658514,
-          "cy": 89.61533177884948,
-          "width": 239.92451647723496,
-          "height": 180.00554396841255,
+          "cx": 62.82474941517495,
+          "cy": 125.51129009001141,
+          "width": 345.9832732754097,
+          "height": 345.9832732754097,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -61,7 +98,7 @@
       "cameraOffsets": {}
     },
     {
-      "frameId": "frame9188",
+      "frameId": "frame4905",
       "title": "Download",
       "titleLevel": 0,
       "notes": "",
@@ -82,10 +119,10 @@
       },
       "cameraStates": {
         "__sozi_auto__": {
-          "cx": 290.26860838342054,
-          "cy": 88.62082601106825,
-          "width": 239.92451647723496,
-          "height": 180.00554396841255,
+          "cx": 289.8165378210033,
+          "cy": 121.68827049580801,
+          "width": 345.9832732754097,
+          "height": 345.9832732754097,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -98,8 +135,8 @@
       "cameraOffsets": {}
     },
     {
-      "frameId": "frame3042",
-      "title": "Survey",
+      "frameId": "frame4195",
+      "title": "Survey input",
       "titleLevel": 0,
       "notes": "",
       "timeoutMs": 0,
@@ -119,10 +156,10 @@
       },
       "cameraStates": {
         "__sozi_auto__": {
-          "cx": 490.4128941494042,
-          "cy": 88.86945245301358,
-          "width": 239.92451647723496,
-          "height": 180.00554396841255,
+          "cx": 512.5074291833522,
+          "cy": 118.82100580015546,
+          "width": 345.9832732754097,
+          "height": 345.9832732754097,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -135,8 +172,8 @@
       "cameraOffsets": {}
     },
     {
-      "frameId": "frame6059",
-      "title": "Submit",
+      "frameId": "frame6603",
+      "title": "Submission",
       "titleLevel": 0,
       "notes": "",
       "timeoutMs": 0,
@@ -156,16 +193,16 @@
       },
       "cameraStates": {
         "__sozi_auto__": {
-          "cx": 689.073528647693,
-          "cy": 89.88828037272428,
-          "width": 240.17044045785482,
-          "height": 180.00554396841255,
+          "cx": 721.8177519659887,
+          "cy": 119.29888324943089,
+          "width": 345.9832732754097,
+          "height": 345.9832732754097,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
           "clipXOffset": 0,
           "clipYOffset": 0,
-          "clipWidthFactor": 1.0010250056318992,
+          "clipWidthFactor": 1,
           "clipHeightFactor": 1
         }
       },
@@ -175,10 +212,7 @@
   "elementsToHide": [],
   "customFiles": [],
   "selectedFrames": [
-    "frame1976",
-    "frame9188",
-    "frame3042",
-    "frame6059"
+    "frame2184"
   ],
   "selectedLayers": [
     "__sozi_auto__"
