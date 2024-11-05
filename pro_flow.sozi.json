@@ -45,10 +45,10 @@
       },
       "cameraStates": {
         "__sozi_auto__": {
-          "cx": 397.5,
-          "cy": 124.5,
-          "width": 793,
-          "height": 247,
+          "cx": 406.911997980435,
+          "cy": 128.29637474364046,
+          "width": 1115.830635166408,
+          "height": 557.915317583204,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -212,7 +212,7 @@
   "elementsToHide": [],
   "customFiles": [],
   "selectedFrames": [
-    "frame6603"
+    "frame2184"
   ],
   "selectedLayers": [
     "__sozi_auto__"
